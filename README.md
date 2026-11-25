@@ -4,8 +4,8 @@ FoodH is a web app for planning grocery shopping. Search the [Open Food Facts](h
 
 NB: You might have to try again continously to get results!!
 
-- **Live site (load balancer):** https://www.te1vel.tech
-- **Demo video (max 2 minutes):** https://youtu.be/Gv6OqcqaotI
+- **Live site:** https://www.te1vel.tech
+- **Demo video:** https://youtu.be/Gv6OqcqaotI
 - **Author:** te1vel
 
 ![image of website](image.png)
