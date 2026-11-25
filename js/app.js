@@ -1,7 +1,7 @@
 const API = "https://world.openfoodfacts.org";
-const LIST_KEY = "pantrypilot_list";
-const THEME_KEY = "pp_theme";
-const CACHE_PREFIX = "pp_cache_";
+const LIST_KEY = "foodh_list";
+const THEME_KEY = "foodh_theme";
+const CACHE_PREFIX = "foodh_cache_";
 
 let products = [];
 let selectedCategory = "all";
